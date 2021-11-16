@@ -6,7 +6,7 @@ Our vision is to offer the fastest, most seamless way for development teams to b
 - “development teams” → includes developers themselves, engineering managers, and the intersections with the rest of their org chart. Also steps away from the question of team scale, and encompasses all sizes of customer.
 - “into their workflows” → Sourcegraph cloud is more than sourcegraph.com and code search, and Sourcegraph cloud offers unique opportunities for integration into existing workflows in ways that self-hosted deployments might not be able to support.
 
-## OKRS FY22Q4
+## OKRs FY22Q4
 
 - Launch and land Sourcegraph Cloud for private code teams
   - 100 teams on the waitlist for closed beta (partnership with marketing)
